@@ -215,8 +215,6 @@ ___
 [link1]:http://bing.com "bing search"
 ```
 
-<br />
-
 - <https://bing.com/>
 
 ```markdown
