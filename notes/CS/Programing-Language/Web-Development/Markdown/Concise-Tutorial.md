@@ -199,8 +199,10 @@ ___
 
 > \<链接地址\>
 
-比如：  
+比如：
+
 - [Bing](https://bing.com/ "必应搜索")
+
 ```markdown
 [Bing](https://bing.com/ "必应搜索")
 ```
